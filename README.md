@@ -6,7 +6,7 @@
 
 A **IGNITE** é um curso da **Rocketseat** de imersão em tecnologia. Onde em seis módulos é abordado a fundo a tecnlogia, no caso **NodeJs**.
 
-## Proposta do projeto Fundamentals NodeJs / ## Conteúdo
+## Proposta / Conteúdo do projeto Fundamentals NodeJs
 
 Nesse módulos nós vamos conhecer os conceitos do Node.js, como é o seu funcionamento e os motivos pelo qual ele foi criado.
 
